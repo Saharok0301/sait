@@ -1,0 +1,11 @@
+
+    .parent {
+        display: flex;
+        flex-flow: column wrap;
+        height: 100%;
+      }
+      .child {
+        width: 40%;
+        height: 40%;
+      }
+  
